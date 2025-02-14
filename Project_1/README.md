@@ -1,4 +1,4 @@
-# Restuarants in Charlottesville
+# Restaurant Reviews in Charlottesville, VA
 
 ## Software and Platform
 - Software: Google Collab
