@@ -22,7 +22,7 @@
 <img width="1096" alt="Screenshot 2025-02-14 at 2 39 38 PM" src="https://github.com/user-attachments/assets/0b1dc911-867b-404c-9a03-97fab2560bb1" />
 
 ## Reproduction Instructions
-1. Open project 1 folder: this contains all documents for the text data project 
+1. Open project 1 folder: this contains all documents for the text data project. 
 2. Open scripts folder: contains all scripts
    - Documents are labeled steps 0-2 to indicate the order in which they were            produced. 
    - Ignore cleaning documents, unless interested in seeing how data was combined        from individual restaurants. 
