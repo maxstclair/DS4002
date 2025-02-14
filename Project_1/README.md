@@ -19,7 +19,7 @@
 - OUTPUT folder: all key figures from EDA and the anlysis.
 - SCRIPTS: combination of starter and final scripts. 
 
-<img width="1096" alt="Screenshot 2025-02-14 at 2 39 38 PM" src="https://github.com/user-attachments/assets/0b1dc911-867b-404c-9a03-97fab2560bb1" />
+<img width="779" alt="Screenshot 2025-02-14 at 6 55 23 PM" src="https://github.com/user-attachments/assets/7d928fc7-656e-4260-b33a-4787e61ce5ba" />
 
 ## Reproduction Instructions
 1. Open project 1 folder: this contains all documents for the text data project. 
