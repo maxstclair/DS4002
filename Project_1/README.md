@@ -15,8 +15,17 @@
 - Platform: Mac
 
 ## Documentation Map
-
+<img width="1096" alt="Screenshot 2025-02-14 at 2 39 38 PM" src="https://github.com/user-attachments/assets/0b1dc911-867b-404c-9a03-97fab2560bb1" />
+- DATA folder: contains smaller data sets and final combined data set. Data appendix includes key tables and plots on review variables.
+- OUTPUT folder: all key figures from EDA and the anlysis.
+- SCRIPTS: combination of starter and final scripts. 
 
 ## Reproduction Instructions
-1. Open project 1 folder
-2. Open scripts folder 
+1. Open project 1 folder: this contains all documents for the text data project 
+2. Open scripts folder: contains all scripts
+   - Documents are labeled steps 0-2 to indicate the order in which they were            produced. 
+   - Ignore cleaning documents, unless interested in seeing how data was combined        from individual restaurants. 
+4. Locate and open 2.1_Analysis - Project 1 MI3 analysis: this document contains code for all relevant analyses performed. .1 indicates it is the combined script to be executed.
+   - It is a combination of the EDA and Rating Sentiment regression script, the          seasonality analysis script and the word sentiment analysis script. These           scripts are coded 2.0 to indciate they came before.
+   - Follow the comments outlined in the document which take you through the             various analyses.
+   - The age regression script produced no meaningful results, but if interested in      following that logic, open the age regression script.
