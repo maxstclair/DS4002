@@ -4,6 +4,11 @@
 - Software: Google Collab
 - Packages:
   - Pandas: data analysis
+  - matplotlib: visualizations
+  - seaborn: visualizations
+  - keras: neural networks
+  - sklearn: machine learning and preprocessing
+  - statsmodels: statistical models
  
 ## Documentation Map
 - DATA folder: contains smaller data sets and final combined data set. Data appendix includes key tables and plots on review variables.
