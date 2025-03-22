@@ -15,7 +15,7 @@
 - OUTPUT folder: all key figures from EDA and the anlysis.
 - SCRIPTS: combination of data cleaning and analysis code.
 
-<img width="779" alt="Documentation Map" src="https://github.com/user-attachments/assets/7d928fc7-656e-4260-b33a-4787e61ce5ba" />
+<img width="779" alt="Documentation Map" src="https://github.com/maxstclair/DS4002/blob/main/Project_2/Documentation%20Map.png" />
 
 ## Reproduction Instructions
 1. Open Project_2 folder: this contains all documents for the text data project. 
