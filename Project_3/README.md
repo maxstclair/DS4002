@@ -14,6 +14,8 @@
   - Image: work with image data
 
 ## Documentation Map
-
+- DATA folder: contains a guide for finding and downloading the data.
+- OUTPUT folder: all key figures from EDA and the anlysis.
+- SCRIPTS: combination of data cleaning and analysis code.
 
 ## Reproduction Instructions
