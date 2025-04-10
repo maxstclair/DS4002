@@ -19,5 +19,5 @@
 - SCRIPTS: combination of data cleaning and analysis code.
 
 ## Reproduction Instructions
-1. Open Project_3 folder.
-2. Open DATA folder. THis contains instructions on how to download the image and text data from Google Drive.
+1. Open Project_3 folder: this contains all documents for the image data project.
+2. Open DATA folder: this contains instructions on how to download the image and text data from Google Drive.
