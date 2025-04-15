@@ -21,6 +21,7 @@
 ## Reproduction Instructions
 1. Open Project_3 folder: this contains all documents for the image data project.
 2. Open DATA folder: this contains instructions on how to download the image and text data from Google Drive.
-3. Open SCRIPTS folder:
+     - Download the zip files for the fastest download time.
+     - Note: annotations_clean.csv is an output from EDA and cleaning but is not necessary for the model.
+4. Open SCRIPTS folder:
     - Documents are labeled 0-2 to indicate the order in which they were run.
-5. 
