@@ -18,7 +18,7 @@
 - OUTPUT folder: all key figures from EDA and the anlysis.
 - SCRIPTS: combination of data cleaning and analysis code.
 
-![]([Project_3/Project 3 Documentation Map.png](https://github.com/maxstclair/DS4002/blob/694cdee1410a19874d29a9845040dff21dcd84ca/Project_3/Project%203%20Documentation%20Map.png))
+![Map](Project 3 Documentation Map.png)
 
 ## Reproduction Instructions
 1. Open Project_3 folder: this contains all documents for the image data project.
