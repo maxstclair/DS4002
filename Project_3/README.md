@@ -25,6 +25,6 @@
 2. Open DATA folder: this contains instructions on how to download the image and text data from Google Drive.
      - Download the zip files for the fastest download time.
      - Note: annotations_clean.csv is an output from EDA and cleaning but is not necessary for the model.
-4. Open SCRIPTS folder: Run 2.Pretrained_Model_Testing.ipynb
+4. Open SCRIPTS folder: Run 2.CNN_Attempt2and3.ipynb and 2.Pretrained_Model_Testing.ipynb
     - Documents are labeled 0-2 to indicate the order in which they were run.
-    - If interested in the model building process, run the CNN Attempt scripts in the order they are labeled.
+    - If interested in the model building process, run the first CNN Attempt script.
