@@ -18,7 +18,7 @@
 - OUTPUT folder: all key figures from EDA and the anlysis.
 - SCRIPTS: combination of data cleaning and analysis code.
 
-! [MAP] (Project_3/Project 3 Documentation Map.pdf)
+
 
 
 ## Reproduction Instructions
